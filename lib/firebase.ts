@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth"
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAdKBZVdeZb-jFDebBlOyEwJMgLhRd9Jjo",
+  apiKey: "AIzaSyAdKBZVdeZb-jFDebBlOyEwJMgLhRd9Jjo",  
   authDomain: "tauha-qr-code.firebaseapp.com",
   projectId: "tauha-qr-code",
   storageBucket: "tauha-qr-code.firebasestorage.app",
